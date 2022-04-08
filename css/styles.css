@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-family:tw cen mt;
+    background-color: #EEEDDE;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+h1{
+    margin-top: 5%;
+    background-color:#203239;
+    color: white;   
+    padding: 3% 0;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+
+.img1, .img2{
+    max-width: 75px;   
+}
+
+button{
+    text-decoration: none;
+    background-color:white;
+    padding: 15px;
+    width: 100px;
+    border-radius: 12px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    padding: 3% 0;
+    margin-left: 220px;
+    margin-right: 220px;
+    height: 100px;
+    bottom: 0;
+    background-color: #141E27;
+    color: white;
+    font-size: 12px;
+}
