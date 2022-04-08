@@ -128,7 +128,7 @@ else if(randomImage1 === randomImage2 && randomImage1 === dice2){
     document.querySelector('h1').textContent = "DRAW!";
 }
 
-// DRAW
-else if(randomImage1 === randomImage2 && randomImage1 === dice1){
-    document.querySelector('h1').textContent = "DRAW!";
-}
+// // DRAW
+// else if(randomImage1 === randomImage2 && randomImage1 === dice1){
+//     document.querySelector('h1').textContent = "DRAW!";
+// }
